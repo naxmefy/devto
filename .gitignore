@@ -43,3 +43,9 @@ app.*.map.json
 # TODO
 TODO
 *.todo
+
+# dotenv
+.env*
+
+# vscode
+.vscode
