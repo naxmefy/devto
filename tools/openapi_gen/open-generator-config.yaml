@@ -1,0 +1,4 @@
+# Config options for the dart-dio generator
+pubName: devto_api
+pubVersion: 0.9.1
+pubDescription: "dev.to API Client"
